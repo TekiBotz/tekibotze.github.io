@@ -4,6 +4,7 @@
 - [Original Artifact](#original-artifacts)
 - [Enhancements](#enhancements)
 - [Narratives](#narratives)
+- [Link Tree](#link-tree)
 
 ## About Me
 ***
@@ -22,7 +23,7 @@ In my code review of the original artifact, I analyzed the structure, highlighte
 [Code Review](https://youtu.be/Vq4vzjxzxYc)
 
 ## Original Artifact
-
+***
 My CS-499 Capstone Project originated from a previous project created in a earlier course CS-340. The original artifact was a Jupyter dashboard connected to a local MongoDB database displaying a table of thousands of animals with details about each animal, a map of the selected animal’s location, and a pie chart of dog breed information.
 I was asked to enhance the artifact in three key areas:
   - Software Engineering and Design
@@ -32,7 +33,7 @@ I was asked to enhance the artifact in three key areas:
 [Original Artifact](https://github.com/TekiBotz/Dash_Project.git)
 
 ## Enhancements
-
+***
 ### Software Engineering and Design
 This enhancement involved turning the existing simple dashboard project written in Python and HTML into a full-stack web application. I accomplished this enhancement using a different language stack, MongoDB, Express, React, and Node.js otherwise known as the (MERN) stack. Including designing a new user-friendly Graphic User Interface (GUI) showing each animal as a card, and a login feature.
 
@@ -49,5 +50,11 @@ This enhancement involves implementing data mining and changing from a locally h
 [Databases Enhancement Repo](https://github.com/TekiBotz/TekiBotz.github.io/tree/finished-v3)
 
 ## Narratives
+***
+[Software Engineering and Design Narrative](https://github.com/user-attachments/files/17440401/Butts_Jarrale_Miltstone_Two_Narrative.pdf)
+[Algorithms and Data Structures Narrative]()
+[Databases Narrative]()
 
-Here’s how you can get in touch with me.
+## Link Tree
+***
+[]()

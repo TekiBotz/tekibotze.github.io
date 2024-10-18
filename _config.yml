@@ -1,0 +1,10 @@
+# Site settings
+title: TekiBotz ePortfolio
+description: Thanks for stopping by my personal portfolio site, my name is Jarrale Butts and I'm a Cyber Security Professional/Software Engineer. Check out my latest project.
+url: "https://tekibotz.github.io"
+
+# Markdown options
+markdown: kramdown
+
+# Theme settings (Jekyll theme)
+theme: jekyll-theme-hacker

@@ -1,4 +1,3 @@
-## Short Cuts:
 - [About Me](#about-me)
 - [Capstone Project](#capstone-project)
 - [Code Review](#code-review)
@@ -10,6 +9,7 @@
 This is the section about me.
 
 ## Capstone Project
+[![Rescue A Pet Capstone Project](https://github.com/user-attachments/assets/7605934a-f896-4a8c-b09d-ae0e15cfe36c)](https://tekibotz.github.io/)
 
 ## Code Review
 

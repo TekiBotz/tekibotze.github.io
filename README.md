@@ -59,3 +59,6 @@ This enhancement involves implementing data mining and changing from a locally h
 ***
 [Linkenin](www.linkedin.com/in/jarrale-butts)
 [GitHub](https://github.com/TekiBotz)
+
+This page was customized by Jarrale Butts to enhance your experience.
+[Go to Top](#top)

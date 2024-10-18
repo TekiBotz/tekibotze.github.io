@@ -30,7 +30,7 @@ I was asked to enhance the artifact in three key areas:
   - Algorithms and Data Structures
   - Databases
 
-[Original Artifact](https://github.com/TekiBotz/Dash_Project.git)
+[Original Artifact Repo](https://github.com/TekiBotz/Dash_Project.git)
 
 ## Enhancements
 ***

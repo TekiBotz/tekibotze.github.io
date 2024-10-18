@@ -19,7 +19,8 @@ I was asked to enhance the artifact in three key areas:
   - Software Engineering and Design
   - Algorithms and Data Structures
   - Databases
-[![Link to my Dash Project](https://github.com/TekiBotz/Dash_Project.git)
+
+[Original Artifact](https://github.com/TekiBotz/Dash_Project.git)
 
 ## Enhancements
 This section highlights some of my key projects.

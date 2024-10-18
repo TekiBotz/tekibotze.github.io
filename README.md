@@ -10,6 +10,7 @@ This is the section about me.
 
 ## Capstone Project
 My Full-Stack Web App's frontend is hosted on Github Pages, while the backend is hosted on Render.com (free account). Click the image below, and give the web app roughly 50 seconds to spin the backend up. It will be much snappier afterward.
+
 [![Rescue A Pet Capstone Project](https://github.com/user-attachments/assets/7605934a-f896-4a8c-b09d-ae0e15cfe36c)](https://tekibotz.github.io/)
 
 ## Code Review
@@ -27,7 +28,20 @@ I was asked to enhance the artifact in three key areas:
 [Original Artifact](https://github.com/TekiBotz/Dash_Project.git)
 
 ## Enhancements
-This section highlights some of my key projects.
+### Software Engineering and Design
+This enhancement involved turning the existing simple dashboard project written in Python and HTML into a full-stack web application. I accomplished this enhancement using a different language stack, MongoDB, Express, React, and Node.js otherwise known as the (MERN) stack. Including designing a new user-friendly Graphic User Interface (GUI) showing each animal as a card, and a login feature.
+
+[Link to Software Engineering and Design Enhancement Repo](https://github.com/TekiBotz/TekiBotz.github.io/tree/frontend-deployed)
+
+### Algorithms and Data Structures
+This enhancement involved adding a search feature and creating a pagination component allowing users to page through the database of animals. Asynchronous calls for data fetching, along with pagination will increase efficiency by fetching data in chunks instead of the entire dataset at once. The search feature will allow for a faster more practical method of searching for an animal leading to a better user experience.
+
+[Link to Algorithms and Data Structures Enhancement Repo](https://github.com/TekiBotz/TekiBotz.github.io/tree/finished-v1)
+
+### Databases
+This enhancement involves implementing data mining and changing from a locally hosted MongoDB database to a cloud-hosted database (MongoDB Atlas). Data mining will reveal insights about the data while a cloud-hosted database will allow for more scalability with computing power, storage, security, and more.
+
+[Link to Databases Enhancement Repo](https://github.com/TekiBotz/TekiBotz.github.io/tree/finished-v3)
 
 ## Narratives
 Here’s how you can get in touch with me.

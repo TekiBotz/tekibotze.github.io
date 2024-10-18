@@ -1,16 +1,22 @@
-# tekibotze.github.io
-ePortfolio
-
-## Sections:
+## Short Cuts:
 - [About Me](#about-me)
-- [Projects](#projects)
-- [Contact](#contact)
+- [Capstone Project](#capstone-project)
+- [Code Review](#code-review)
+- [Original Artifact](#original-artifacts)
+- [Enhancements](#enhancements)
+- [Narratives](#narratives)
 
 ## About Me
 This is the section about me.
 
-## Projects
+## Capstone Project
+
+## Code Review
+
+## Original Artifact
+
+## Enhancements
 This section highlights some of my key projects.
 
-## Contact
+## Narratives
 Here’s how you can get in touch with me.

@@ -12,7 +12,7 @@ This is the section about me.
 
 ## Capstone Project
 ***
-My Full-Stack Web App's frontend is hosted on Github Pages, while the backend is hosted on Render.com (free account). Click the image below, and give the web app roughly 50 seconds to spin the backend up. It will be much snappier afterward.
+My Full-Stack Web App's frontend is hosted on GitHub Pages, while the backend is hosted on Render.com (free account). Click the image below, and give the web app roughly 50 seconds to spin the backend up. It will be much snappier afterward.
 
 [![Rescue A Pet Capstone Project](https://github.com/user-attachments/assets/7605934a-f896-4a8c-b09d-ae0e15cfe36c)](https://tekibotz.github.io/)
 
@@ -57,4 +57,5 @@ This enhancement involves implementing data mining and changing from a locally h
 
 ## Link Tree
 ***
-[]()
+[Linkenin](www.linkedin.com/in/jarrale-butts)
+[GitHub](https://github.com/TekiBotz)

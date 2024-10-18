@@ -12,6 +12,9 @@ This is the section about me.
 [![Rescue A Pet Capstone Project](https://github.com/user-attachments/assets/7605934a-f896-4a8c-b09d-ae0e15cfe36c)](https://tekibotz.github.io/)
 
 ## Code Review
+In my code review of the original artifact, I analyzed the structure, highlighted strengths like effective functions and coding standards, and identified areas for improvement such as performance, readability, and algorithm efficiency. This review not only showcased my strengths but also provided valuable insights into how I can elevate the overall quality of my code in future projects.
+
+[Code Review](https://youtu.be/Vq4vzjxzxYc)
 
 ## Original Artifact
 My CS-499 Capstone Project originated from a previous project created in a earlier course CS-340. The original artifact was a Jupyter dashboard connected to a local MongoDB database displaying a table of thousands of animals with details about each animal, a map of the selected animal’s location, and a pie chart of dog breed information.

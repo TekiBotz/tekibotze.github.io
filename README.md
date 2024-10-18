@@ -51,9 +51,9 @@ This enhancement involves implementing data mining and changing from a locally h
 
 ## Narratives
 ***
-[Software Engineering and Design Narrative](https://github.com/user-attachments/files/17440401/Butts_Jarrale_Miltstone_Two_Narrative.pdf)
-[Algorithms and Data Structures Narrative]()
-[Databases Narrative]()
+  - [Software Engineering and Design Narrative](https://github.com/user-attachments/files/17440401/Butts_Jarrale_Miltstone_Two_Narrative.pdf)
+  - [Algorithms and Data Structures Narrative](https://github.com/user-attachments/files/17440417/Butts_Jarrale_Milestone_Three_Narrative.pdf)
+  - [Databases Narrative](https://github.com/user-attachments/files/17440433/Butts_Jarrale_Milestone_Four_Narrative.pdf)
 
 ## Link Tree
 ***

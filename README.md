@@ -32,6 +32,9 @@ I was asked to enhance the artifact in three key areas:
 
 [Original Artifact Repo](https://github.com/TekiBotz/Dash_Project.git)
 
+![Screenshot_DashProject](https://github.com/user-attachments/assets/8bbcd7dd-a236-401a-8bd3-973b0f421aa0)
+
+
 ## Enhancements
 ***
 ### Software Engineering and Design

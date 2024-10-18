@@ -12,7 +12,7 @@ I have been enrolled in the Computer Science program since 2018. After joining t
 
 ## Capstone Project
 ***
-My Full-Stack Web App's frontend is hosted on GitHub Pages, while the backend is hosted on Render.com (free account). Click the image below, and give the web app roughly 50 seconds to spin the backend up. It will be much snappier afterward.
+My Full-Stack Web App is my final enahncement and its frontend is hosted on GitHub Pages, while the backend is hosted on Render.com (free account). Click the image below, and give the web app roughly 50 seconds to spin the backend up. It will be much snappier afterward.
 
 [![Rescue A Pet Capstone Project](https://github.com/user-attachments/assets/7605934a-f896-4a8c-b09d-ae0e15cfe36c)](https://tekibotz.github.io/)
 

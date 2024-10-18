@@ -8,7 +8,7 @@
 
 ## About Me
 ***
-This is the section about me.
+I have been enrolled in the Computer Science program since 2018. After joining the Air Force, I took a break from my studies for two years, and I was medically retired when a pacemaker was implanted. Upon leaving the military, I resumed my pursuit of a Bachelor’s degree in Computer Science. During my time in this program, I have acquired three key concepts or skills: programming languages (such as Python, Java, and C++), Database Management Systems (DBMS), and a greater appreciation for the value of knowledge, which has inspired me to become a lifelong learner. To demonstrate that I have achieved the course outcomes, I will utilize skills including Software Development, Communication, Programming Languages, Software Testing, Algorithmic Efficiency, Problem Solving, and DBMS. My career aspirations include becoming a cybersecurity analyst or software engineer. The specific skills I will showcase in this ePortfolio will highlight my capability to address problems using industry-standard techniques while also expressing my creativity. The focus I’m aiming for in my Bachelor’s degree in Computer Science is Data Analysis. My skills and projects will emphasize my ability to develop software and extract insights from data, aligning with particular outcomes.
 
 ## Capstone Project
 ***
@@ -61,4 +61,4 @@ This enhancement involves implementing data mining and changing from a locally h
 [GitHub](https://github.com/TekiBotz)
 
 This page was customized by Jarrale Butts to enhance your experience.
-[Go to Top](#top)
+[Top](#top)

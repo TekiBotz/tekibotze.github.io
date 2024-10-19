@@ -1,7 +1,7 @@
 - [About Me](#about-me)
 - [Capstone Project](#capstone-project)
 - [Code Review](#code-review)
-- [Original Artifact](#original-artifacts)
+- [Original Artifact](#original-artifact)
 - [Enhancements](#enhancements)
 - [Narratives](#narratives)
 - [Link Tree](#link-tree)

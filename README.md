@@ -8,8 +8,6 @@
 
 ## About Me
 ***
-Professional Self-Assessment
-
 Completing my coursework throughout the Computer Science program and developing my ePortfolio has been an enlightening and transformative journey. This process has not only allowed me to showcase my technical skills and strengths but also helped me clarify my professional goals and values, preparing me to contribute effectively in the computer science field.
 
 One of the key aspects I’ve learned is the importance of collaboration in a team environment. Throughout various projects, I have collaborated with classmates to build software solutions, often dividing tasks based on individual strengths. For example, in a team-based software engineering project, I took responsibility for designing the backend infrastructure using Node.js and MongoDB, while my teammates focused on frontend development. This experience helped me develop strong communication and coordination skills, ensuring that each piece of the project fit together seamlessly. These experiences have shaped my understanding of teamwork and its importance in creating scalable, maintainable systems.

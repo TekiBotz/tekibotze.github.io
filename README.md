@@ -26,7 +26,7 @@ Together, these experiences have provided me with a broad yet cohesive skill set
 
 ## Capstone Project
 ***
-My Full-Stack Web App is my final enahncement and its frontend is hosted on GitHub Pages, while the backend is hosted on Render.com (free account). Click the image below, and give the web app roughly 50 seconds to spin the backend up. It will be much snappier afterward.
+My final enhancement is my full-stack web app. While its front end is hosted on GitHub Pages, the back end is hosted on Render.com (free account). Click the image below, and give the web app roughly 50 seconds to spin the backend up. It will be much snappier afterward.
 
 [![Rescue A Pet Capstone Project](https://github.com/user-attachments/assets/7605934a-f896-4a8c-b09d-ae0e15cfe36c)](https://tekibotz.github.io/)
 
